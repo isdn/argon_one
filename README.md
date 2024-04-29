@@ -47,7 +47,7 @@ systemctl start argonone.service
 
 ##### References
 
-https://github.com/Argon40Tech/Argon-ONE-i2c-Codes
-https://github.com/Argon40Tech/Argon40case/tree/master/src
-https://forum.argon40.com/t/argon-one-v2-fan-speed-not-working/1575/4
+- https://github.com/Argon40Tech/Argon-ONE-i2c-Codes
+- https://github.com/Argon40Tech/Argon40case/tree/master/src
+- https://forum.argon40.com/t/argon-one-v2-fan-speed-not-working/1575/4
 
