@@ -1,0 +1,9 @@
+[cpu_temp]
+# fan_speed = { temp1 = speed1 (in %), temp2 = speed2 }
+# enabled = true or false
+enabled = true
+fan_speed = { 65 = 100, 60 = 50, 55 = 30 }
+
+[hdd_temp]
+enabled = true
+fan_speed = { 55 = 100, 50 = 40 }
